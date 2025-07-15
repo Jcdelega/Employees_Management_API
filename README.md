@@ -30,13 +30,13 @@ POST /api/employees
 ```json
 {
   "firstName": "John",
-  "lastName": "Doe",
-  "position": "Developer",
+  "fatherLastName": "Doe",
+  "motherLastName": "N",
   "company": "Acme Inc.",
   "gender": "Male",
   "birthDate": "1990-01-01",
-  "country": "USA",
-  "city": "New York",
+  "countr": "USA",
+  "state": "New York",
   "curp": "JOND900101HNYYYR01",
   "rfc": "555123456756"
 }
